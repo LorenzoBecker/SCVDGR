@@ -2,7 +2,7 @@
 
 ## Référentiel central
 
-Le projet SCVDGR repose sur un système de capsules modulaires versionnées, organisées selon une architecture strictement gouvernée.
+Le projet **SCVDGR** (Système Cognitif Vectorisé de Développement et de Gouvernance Réflexive) repose sur un système de capsules modulaires versionnées, organisées selon une architecture strictement gouvernée.
 
 Le document de référence principal est la capsule suivante :
 
